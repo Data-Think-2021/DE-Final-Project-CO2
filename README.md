@@ -10,7 +10,7 @@ Through this project I want to build a dashboard of CO2 to monitor and understan
 
 
 The following diagram illustrates the architecture of the end-to-end data pipeline. 
-![Flowchart_overview](https://res.cloudinary.com/do5aglxsw/image/upload/v1680346760/DE_FinalProject/flowchart_finalproject_f5a0x3.png)
+![Flowchart_overview](https://res.cloudinary.com/do5aglxsw/image/upload/v1680473496/DE_FinalProject/project_week7_kkkpny.png)
 
 
 ## The Dataset
