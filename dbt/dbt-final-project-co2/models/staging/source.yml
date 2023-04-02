@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: staging
+    database: de-finalproject
+    schema: co2_data
+    tables:
+      - name: dl_co2_data
+
+models:
+    - name: dl_co2_data
+      description: >
+        Thecomplete CO2 and Greenhouse Gas Emissions dataset is a collection of key metrics maintained by Our World in Data. 
+        It is updated regularly and includes data on CO2 emissions (annual, per capita, cumulative and consumption-based), 
+        other greenhouse gases, energy mix, and other relevant metrics.
+      
+ 
